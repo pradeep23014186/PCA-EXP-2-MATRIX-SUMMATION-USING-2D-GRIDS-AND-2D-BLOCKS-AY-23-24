@@ -2,7 +2,7 @@
 <h3>NAME : Pradeep Kumar G</h3>
 <h3>REGISTER NO : 212223230150</h3>
 <h3>EX. NO 2</h3>
-<h3>DATE</h3>
+<h3>DATE : </h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
@@ -298,4 +298,4 @@ int main(int argc, char **argv)
 
 
 ## RESULT:
-The host took _________ seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in ________ seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 1.038690 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.013643 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
